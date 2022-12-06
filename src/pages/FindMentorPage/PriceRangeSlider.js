@@ -128,7 +128,7 @@ export default function PriceRangeSlider() {
   );
 }
 
-git commit -m "Feat: 멘토 찾기 페이지 
-상단부 구현
->> 
->> 조건에 맞는 멘토를 찾을 수 있도록 조건체크박스  및 가격 범위 슬라이더 개발"git a
+// git commit -m "Feat: 멘토 찾기 페이지
+// 상단부 구현
+// >>
+// >> 조건에 맞는 멘토를 찾을 수 있도록 조건체크박스  및 가격 범위 슬라이더 개발"git a
