@@ -1,7 +1,7 @@
 import React from "react";
 
 function Home() {
-  return <div>Home</div>;
+  return <div>코드케어 홈</div>;
 }
 
 export default Home;
