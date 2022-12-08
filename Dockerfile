@@ -1,4 +1,4 @@
-FROM node:14.20.1-alpine as BUILD
+FROM node:16.13.1-alpine as BUILD
 
 # 컨테이너 생성 전 수행될 명령어를 RUN을 통해 작성할 수 있다.
 RUN mkdir -p /app
